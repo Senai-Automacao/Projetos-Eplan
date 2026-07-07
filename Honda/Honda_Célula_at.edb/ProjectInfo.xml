@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Properties>
- <Property name="Identificação do objeto" id="2000" index="0" type="7">58/14/1/0</Property>
+ <Property name="Identificação do objeto" id="2000" index="0" type="7">28/14/1/0</Property>
  <Property name="Último editor: Identificação" id="3010" index="0" type="7"/>
  <Property name="Último editor: Nome" id="3011" index="0" type="7"/>
  <Property name="Último editor: Telefone" id="3012" index="0" type="7"/>
@@ -12,8 +12,8 @@
  <Property name="Estrutura do projeto: Número da instalação" id="10005" index="0" type="7">&lt;1700&gt;</Property>
  <Property name="Estrutura do projeto: Tipo de documento" id="10006" index="0" type="7">&lt;1500&gt;</Property>
  <Property name="Estrutura do projeto: Estrutura definida pelo usuário" id="10007" index="0" type="7">&lt;1600&gt;&lt;1601&gt;&lt;1602&gt;&lt;1603&gt;&lt;1604&gt;&lt;1605&gt;&lt;1606&gt;&lt;1607&gt;&lt;1608&gt;&lt;1609&gt;</Property>
- <Property name="Nome do projeto (completo)" id="10009" index="0" type="7">C:\Users\rafae\OneDrive - SESISENAISP - Corporativo\960 GB\Documentos\Senai\Arquivos\Projetos Eplan\Honda\Honda_Célula_at.elk</Property>
- <Property name="Caminho do projeto" id="10010" index="0" type="7">C:\Users\rafae\OneDrive - SESISENAISP - Corporativo\960 GB\Documentos\Senai\Arquivos\Projetos Eplan\Honda</Property>
+ <Property name="Nome do projeto (completo)" id="10009" index="0" type="7">C:\Users\gabri\OneDrive\Documentos\GitHub\Projetos-Eplan\Honda\Honda_Célula_at.elk</Property>
+ <Property name="Caminho do projeto" id="10010" index="0" type="7">C:\Users\gabri\OneDrive\Documentos\GitHub\Projetos-Eplan\Honda</Property>
  <Property name="Descrição do projeto" id="10011" index="0" type="15">??_??@Mudança de Metodologia de Furação de Para-Choques e Colagem de Retainers;</Property>
  <Property name="Importar nome da página no TAG" id="10012" index="0" type="1">0</Property>
  <Property name="Número do projeto" id="10013" index="0" type="7">1.0</Property>
@@ -24,18 +24,18 @@
  <Property name="Encaixamento de TAG&apos;s" id="10019" index="0" type="7">16&#9;0&#9;1&#9;1&#9;1&#9;1&#9;0&#9;1&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Autor" id="10020" index="0" type="7">Rafael Yamauchi</Property>
  <Property name="Data de criação" id="10021" index="0" type="14">1779108599</Property>
- <Property name="Último editor: Nome de entrada" id="10022" index="0" type="7">rafae</Property>
- <Property name="Data de modificação" id="10023" index="0" type="14">1783334682</Property>
+ <Property name="Último editor: Nome de entrada" id="10022" index="0" type="7">gabri</Property>
+ <Property name="Data de modificação" id="10023" index="0" type="14">1783440188</Property>
  <Property name="Última tradução: Data" id="10024" index="0" type="14">1583409258</Property>
- <Property name="Data atual" id="10027" index="0" type="14">1783434251</Property>
+ <Property name="Data atual" id="10027" index="0" type="14">1783440217</Property>
  <Property name="Inicio do projeto" id="10028" index="0" type="14">1779108616</Property>
  <Property name="Formatos de estruturas principais" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Considerações ambientais" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@Egy se;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;ro_RO@niciunul/niciuna;</Property>
  <Property name="Versão EPLAN da última alteração ou atualização" id="10043" index="0" type="7">2025.0.3</Property>
  <Property name="Número Build EPLAN da última alteração ou atualização" id="10044" index="0" type="7">23756</Property>
- <Property name="Caminho do projeto (completo)" id="10045" index="0" type="7">C:\Users\rafae\OneDrive - SESISENAISP - Corporativo\960 GB\Documentos\Senai\Arquivos\Projetos Eplan\Honda</Property>
+ <Property name="Caminho do projeto (completo)" id="10045" index="0" type="7">C:\Users\gabri\OneDrive\Documentos\GitHub\Projetos-Eplan\Honda</Property>
  <Property name="Hora de criação" id="10046" index="0" type="7">09:49:59</Property>
- <Property name="Hora da alteração" id="10047" index="0" type="7">07:44:42</Property>
+ <Property name="Hora da alteração" id="10047" index="0" type="7">13:03:08</Property>
  <Property name="Última tradução: Hora" id="10048" index="0" type="7">08:54:18</Property>
  <Property name="Formato de estrutura para páginas" id="10050" index="0" type="7">&lt;10006&gt;&lt;10003&gt;&lt;10004&gt;&lt;10001&gt;&lt;10002&gt;&lt;10007&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Formato da estrutura para pontos de interrupção" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -44,7 +44,7 @@
  <Property name="Formato de estrutura para dispositivos gerais" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estrutura para caixa de dispositivos" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato da estrutura para técnica de CLP/Bus" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Hora do dia" id="10058" index="0" type="14">1783434251</Property>
+ <Property name="Hora do dia" id="10058" index="0" type="14">1783440217</Property>
  <Property name="Formato de estrutura para réguas de bornes" id="10059" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estrutura para conectores" id="10060" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Formato de estrutura para cabos" id="10061" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
@@ -67,7 +67,7 @@
  <Property name="Quantidade de páginas congeladas por tipo de página" id="10065" index="14" type="4">0</Property>
  <Property name="Quantidade de páginas congeladas por tipo de página" id="10065" index="15" type="4">0</Property>
  <Property name="Quantidade de páginas congeladas por tipo de página" id="10065" index="16" type="4">0</Property>
- <Property name="Quantidade de páginas congeladas por tipo de página" id="10065" index="17" type="4">1</Property>
+ <Property name="Quantidade de páginas congeladas por tipo de página" id="10065" index="17" type="4">2</Property>
  <Property name="Quantidade de páginas congeladas por tipo de página" id="10065" index="18" type="4">0</Property>
  <Property name="Quantidade de páginas congeladas por tipo de página" id="10065" index="19" type="4">0</Property>
  <Property name="Quantidade de páginas congeladas por tipo de página" id="10065" index="20" type="4">0</Property>
@@ -144,14 +144,14 @@
  <Property name="Revisão: Nome do projeto de origem" id="10149" index="0" type="7"/>
  <Property name="ID claro do projeto" id="10184" index="0" type="7">IEC_bas001@1779108614</Property>
  <Property name="Número de licença do Dongle" id="10185" index="0" type="7">EPLSNPF5J0</Property>
- <Property name="Quantidade de páginas por tipo de página" id="10200" index="1" type="4">171</Property>
+ <Property name="Quantidade de páginas por tipo de página" id="10200" index="1" type="4">342</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="2" type="4">0</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="3" type="4">0</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="4" type="4">0</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="5" type="4">0</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="6" type="4">0</Property>
- <Property name="Quantidade de páginas por tipo de página" id="10200" index="7" type="4">99</Property>
- <Property name="Quantidade de páginas por tipo de página" id="10200" index="8" type="4">5</Property>
+ <Property name="Quantidade de páginas por tipo de página" id="10200" index="7" type="4">198</Property>
+ <Property name="Quantidade de páginas por tipo de página" id="10200" index="8" type="4">10</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="9" type="4">0</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="10" type="4">0</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="11" type="4">0</Property>
@@ -160,7 +160,7 @@
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="14" type="4">0</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="15" type="4">0</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="16" type="4">0</Property>
- <Property name="Quantidade de páginas por tipo de página" id="10200" index="17" type="4">1</Property>
+ <Property name="Quantidade de páginas por tipo de página" id="10200" index="17" type="4">2</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="18" type="4">0</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="19" type="4">0</Property>
  <Property name="Quantidade de páginas por tipo de página" id="10200" index="20" type="4">0</Property>
@@ -328,9 +328,9 @@
  <Property name="Última hora de alteração por tipo de página" id="10251" index="48" type="7"/>
  <Property name="Última hora de alteração por tipo de página" id="10251" index="49" type="7"/>
  <Property name="Última hora de alteração por tipo de página" id="10251" index="50" type="7"/>
- <Property name="Quantidade total de páginas" id="10300" index="0" type="4">276</Property>
- <Property name="Páginas inseridas" id="10301" index="0" type="4">275</Property>
- <Property name="Páginas de relatório geradas" id="10302" index="0" type="4">1</Property>
+ <Property name="Quantidade total de páginas" id="10300" index="0" type="4">552</Property>
+ <Property name="Páginas inseridas" id="10301" index="0" type="4">550</Property>
+ <Property name="Páginas de relatório geradas" id="10302" index="0" type="4">2</Property>
  <Property name="Status do projeto" id="10303" index="0" type="7">11&#9;1&#9;Bornes&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;2&#9;Conectores&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;3&#9;Cabos&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;4&#9;CLP / Bus&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;5&#9;Conexões&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;7&#9;Dispositivos&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;8&#9;Línguas estrangeiras&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;10&#9;Referências cruzadas&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;11&#9;Pontos de interrupção&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;12&#9;Layout do painel 2D&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;13&#9;Dados de peças&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;14&#9;Macro&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;15&#9;Relatórios&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;16&#9;Caixas de dispositivos&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;17&#9;TAG&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;18&#9;Importação de dados EPLAN 5&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;19&#9;Importação de dados EPLAN 21&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;20&#9;Comparação de projeto&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;21&#9;Objetos placeholder&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;22&#9;Outros&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;24&#9;Fluid&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;25&#9;Configurações do projeto&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;26&#9;Layout de montagem 3D&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;27&#9;Topologia&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;28&#9;Pré-planejamento&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;29&#9;Profundidade de pré-planejamento&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;30&#9;Projetos parciais&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;32&#9;Padrão de furação&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;33&#9;Chicote&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;501&#9;Dados-mestre das peças&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;999&#9;Externo&#9;&#9;&#9;&#9;0&#9;0&#9;0</Property>
  <Property name="Quantidade dos espaços do layout" id="10304" index="0" type="4">0</Property>
  <Property name="Design térmico: tensão" id="10310" index="0" type="4">5</Property>
